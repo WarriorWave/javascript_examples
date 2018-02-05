@@ -1,0 +1,1 @@
+// the string is a structure of variables with the same type
